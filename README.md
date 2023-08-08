@@ -1,6 +1,6 @@
 # Hello everyone! #
 **My name is Jose de Jesus Navarro, I am an aspiring ophthalmologist from the Bay Area. I am a rising freshman at UC Berkeley that will be majoring in Molecular Cell Biology. I little bit about A little bit about me is that I love to play soccer, watch different tv shows, spend time with my girlfriend, and try out new food. I am looking forward to meeting lots of new people during the fall and I hope my fall semester is chill. Another thing I am looking forward to this fall is playing soccer, I hope I can play on one of the club teams here at Berkeley.** 
-
+<br>
 
 
 ## Data Visualizations
